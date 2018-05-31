@@ -29,3 +29,12 @@ E:\Bitbucket\Diploma\PIT_Server\smallclient\obj\x86\Release\smallclient.csproj.G
 E:\Bitbucket\Diploma\PIT_Server\smallclient\obj\x86\Release\smallclient.csproj.CoreCompileInputs.cache
 E:\Bitbucket\Diploma\PIT_Server\smallclient\obj\x86\Release\smallclient.exe
 E:\Bitbucket\Diploma\PIT_Server\smallclient\obj\x86\Release\smallclient.pdb
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\smallclient\bin\Release\smallclient.exe
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\smallclient\bin\Release\smallclient.pdb
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\smallclient\obj\x86\Release\smallclient.csprojResolveAssemblyReference.cache
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\smallclient\obj\x86\Release\smallclient.GUi.resources
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\smallclient\obj\x86\Release\smallclient.Settings.resources
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\smallclient\obj\x86\Release\smallclient.csproj.GenerateResource.cache
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\smallclient\obj\x86\Release\smallclient.csproj.CoreCompileInputs.cache
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\smallclient\obj\x86\Release\smallclient.exe
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\smallclient\obj\x86\Release\smallclient.pdb

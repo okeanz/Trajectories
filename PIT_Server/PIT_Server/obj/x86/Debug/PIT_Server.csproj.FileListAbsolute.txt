@@ -28,3 +28,13 @@ D:\Projects.Git\Diploma\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.Propertie
 D:\Projects.Git\Diploma\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.csproj.GenerateResource.Cache
 D:\Projects.Git\Diploma\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.exe
 D:\Projects.Git\Diploma\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.pdb
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\bin\Debug\PIT_Server.exe.config
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\bin\Debug\PIT_Server.exe
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\bin\Debug\PIT_Server.pdb
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.csprojResolveAssemblyReference.cache
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.Properties.Resources.resources
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.Resources.ControlPanel.resources
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.csproj.GenerateResource.cache
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.csproj.CoreCompileInputs.cache
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.exe
+C:\Users\okean\Documents\GitHub\Trajectories\PIT_Server\PIT_Server\obj\x86\Debug\PIT_Server.pdb
